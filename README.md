@@ -6,7 +6,7 @@ Afin de concevoir l'api, le framework Api Platform a été intégré à cette ap
 
 Doctrine ORM a été utilisé pour ce test, lié à une base de donnée MySQL. Ce projet se compose d'une architecture simple de 2 entités : `Person` et `Job`
 
-Pour parvenir a certain endpoint, j'ai tout simplement utilisé les Filters d'Api Platform, et une "Custom Operation".
+Pour parvenir à certains endpoints, j'ai tout simplement utilisé les filters d'Api Platform, et une "Custom Operation".
 
 ## Liste des endpoints
 
